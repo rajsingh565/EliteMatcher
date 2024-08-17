@@ -66,8 +66,7 @@ For support, contact: rajsingh403391@gmail.com
 ## Acknowledgments
 Libraries and Tools: This project uses various Python libraries and tools for machine learning and data processing. See requirements.txt for a complete list.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
